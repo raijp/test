@@ -1,3 +1,2 @@
 # test
 fleek-test
-ICP
